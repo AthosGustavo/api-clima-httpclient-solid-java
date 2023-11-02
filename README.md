@@ -36,6 +36,11 @@ Sendo assim, de forma proposital não segui as boas práticas na primeira versã
    do método construtor da instância da Classe Client.
  - Resumo:Caso houver um método POST ou DELETE, não será necessário instanciar a classe HttpClient várias vezs.
 
+### Solid_v6 (Versão final)
+ - Criação da classe Clima e remoção da declaração dos atributos no método main.
+ - Interação com o usuario adicionada através do console.
+   
+
 
 
 
